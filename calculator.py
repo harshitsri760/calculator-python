@@ -51,6 +51,7 @@
 
 # ============ Calculator Version 2 ==============
 
+# Basic Python Calculator
 def calculator(a, b, operator):
 
     if operator == "+":
